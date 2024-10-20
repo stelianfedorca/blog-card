@@ -1,0 +1,17 @@
+.button-container {
+  text-decoration: none;
+  padding: 0;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  width: fit-content;
+  font-size: 14px;
+  color: #4338ca;
+
+  display: flex;
+  align-items: center;
+}
+
+.button-arrow {
+  margin-left: 8px;
+}
